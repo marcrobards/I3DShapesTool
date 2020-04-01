@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "I3DShapesTool": {
+      "commandName": "Project",
+      "commandLineArgs": "barrelFactory.i3d.shapes"
+    }
+  }
+}
