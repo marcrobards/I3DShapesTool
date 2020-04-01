@@ -2,7 +2,7 @@
   "profiles": {
     "I3DShapesTool": {
       "commandName": "Project",
-      "commandLineArgs": "barrelFactory.i3d.shapes"
+      "commandLineArgs": "barrelFactory.i3d.shapes --d"
     }
   }
 }
